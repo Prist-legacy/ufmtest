@@ -1,5 +1,5 @@
 from pyrogram.types import InlineKeyboardButton
-import fixed
+
 
 
 class Data:
