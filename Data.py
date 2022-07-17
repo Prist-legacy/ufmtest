@@ -20,6 +20,8 @@ Use below buttons for simplicity!
 
     # Rest Buttons
     buttons = [
+        [InlineKeyboardButton("✨ JOIN MAIN CHANNEL ✨", url="https://t.me/ugfixedmatches")],
+        [
         [
             InlineKeyboardButton("BOOK NOW", callback_data="help"),
             InlineKeyboardButton("ABOUT US", callback_data="about")
