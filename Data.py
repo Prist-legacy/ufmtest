@@ -31,7 +31,7 @@ Use below buttons for simplicity!
     HELP = """
 **PLEASE CONTACT**
 
-[ADMIN1](t.me/talktotegs)  💬  [ADMIN2](t.me/talktotegs2)
+[ADMIN1](t.me/talktotegs)    [ADMIN2](t.me/talktotegs2)
     """
 
     # About Message
